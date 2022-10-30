@@ -15,9 +15,9 @@ a:hover {
 }
 
 .logo {
-  font-size: 24px;
+  font-size: 1.5rem;
   text-transform: uppercase;
-  letter-spacing: 4px;
+  letter-spacing: 0.25rem;
 }
 
 
@@ -27,7 +27,7 @@ nav {
   align-items: center;
   font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
   background: #23232e;
-  height: 8vh;
+  height: 8.5vh;
 }
 
 main {
@@ -44,8 +44,8 @@ main {
 }
 
 .nav-list li {
-  letter-spacing: 3px;
-  margin-left: 32px;
+  letter-spacing: 0.188rem;
+  margin-left: 2rem;
 }
 
 .mobile-menu {
@@ -58,10 +58,10 @@ main {
 }
 
 .mobile-menu div {
-  width: 32px;
-  height: 2px;
+  width: 2rem;
+  height: 0.125rem;
   background: #fff;
-  margin: 8px;
+  margin: 0.5rem;
   transition: 0.3s;
 }
 
@@ -74,8 +74,8 @@ main {
     position: absolute;
     top: 8vh;
     right: 0;
-    width: 35vw;
-    height: 92vh;
+    width: 50vw;
+    height: 91.5vh;
     background: #23232e;
     flex-direction: column;
     align-items: center;
